@@ -5,28 +5,28 @@
 
 
 ## Course content
-Workshop 1:
+### Workshop 1:
     Reading: Chapter 1 + 2
     Subjects:
         * PyCharm
-        * Python (Syntax, operatore, OOP (Linked List), NumPy)
+        * Python (Syntax, operators, OOP (Linked List), NumPy)
         * Supervised (kNN)
 
 
-Workshop 2:
+### Workshop 2:
     Reading: Chapter 3 + 4
     Subjects:
-        * Supervised (DT, Naive Based)
-        * Cleaning Dataset
+        * Supervised (DT, Naive Bayes)
+        * Cleaning Datasets
 
 
-Workshop 3:
+### Workshop 3:
     Reading: Chapter 10 + 11 + 12
     Subjects:
         * Unsupervised (FP-Tree, Apriori)
 
 
-Workshop 4:
+### Workshop 4:
     Reading: ???
     Subjects:
         * Neural Network
