@@ -1,7 +1,7 @@
 # Machine-Learning-2018
 
 ## Introduction
- Machine Learning in Action
+The book for the course: "Machine Learning in Action, ISBN 9781617290183"
 
 
 ## Course content
