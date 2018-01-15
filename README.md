@@ -1,11 +1,11 @@
 # Machine-Learning-2018
 
 ## Introduction
- TODO: Write something
+ Machine Learning in Action
 
 
 ## Course content
-### Workshop 1:
+### Workshop 1: (2/2-2018)
     Reading: Chapter 1 + 2
     Subjects:
         * PyCharm
@@ -13,20 +13,20 @@
         * Supervised (kNN)
 
 
-### Workshop 2:
+### Workshop 2: (16/2-2018)
     Reading: Chapter 3 + 4
     Subjects:
         * Supervised (DT, Naive Bayes)
         * Cleaning Datasets
 
 
-### Workshop 3:
+### Workshop 3: (23/2-2018)
     Reading: Chapter 10 + 11 + 12
     Subjects:
         * Unsupervised (FP-Tree, Apriori)
 
 
-### Workshop 4:
+### Workshop 4: (2/3-2018)
     Reading: ???
     Subjects:
         * Neural Network
