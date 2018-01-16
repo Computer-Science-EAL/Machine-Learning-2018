@@ -14,15 +14,19 @@ class LinkedList(object):
 
     # LinkedList methods
     def add(self, value):
+        # TODO: implement this method
         pass
 
     def get(self, index):
+        # TODO: implement this method
         pass
 
     def remove(self, index):
+        # TODO: implement this method
         pass
 
     def insert(self, value, index):
+        # TODO: implement this method
         pass
 
     def __str__(self):
@@ -32,3 +36,4 @@ class LinkedList(object):
 if __name__ == "__main__":
     ll = LinkedList()
     print(ll)
+    # TODO: write "tests" as you implement different methods in your data structure
