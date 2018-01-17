@@ -21,13 +21,30 @@ class LinkedList(object):
         # TODO: implement this method
         pass
 
-    def remove(self, index):
+    def remove(self, value):
+        # TODO: implement this method
+        pass
+
+    def remove_at(self, index):
         # TODO: implement this method
         pass
 
     def insert(self, value, index):
         # TODO: implement this method
         pass
+
+    def contains(self, value):
+        # TODO: implement this method
+        pass
+
+    def size(self):
+        # TODO: implement this method
+        pass
+
+    def clear(self):
+        # TODO: implement this method
+        pass
+
 
     def __str__(self):
         return ""
