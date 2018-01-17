@@ -3,6 +3,9 @@
 ## Introduction
 The book for the course: "Machine Learning in Action, ISBN 9781617290183"
 
+The book contains a few errors in the code examples, there are updated versions of the examples on the books GitHub page.: 
+https://github.com/pbharrin/machinelearninginaction
+
 
 ## Course content
 ### Workshop 1: (2/2-2018)
