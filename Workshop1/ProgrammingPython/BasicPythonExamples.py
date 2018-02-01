@@ -54,6 +54,8 @@ def the_function(value1, value2):
 3 ** 3  # Exponent
 9 // 2  # Floor Division
 
+len('more then one word') # length
+
 #
 # Lambda
 my_lambda = lambda x: x ** x + 2
