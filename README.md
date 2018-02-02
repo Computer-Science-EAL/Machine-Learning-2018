@@ -6,6 +6,8 @@ The book for the course: "Machine Learning in Action, ISBN 9781617290183"
 The book contains a few errors in the code examples, there are updated versions of the examples on the books GitHub page.: 
 https://github.com/pbharrin/machinelearninginaction
 
+A good place to find datasets to play with is: https://www.kaggle.com/
+
 
 ## Course content
 ### Workshop 1: (2/2-2018)
