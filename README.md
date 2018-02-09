@@ -30,9 +30,10 @@ A good place to find datasets to play with is: https://www.kaggle.com/
 
 
 ### Workshop 3: (23/2-2018)
-    Reading: Chapter 10 + 11 + 12
+    Reading: Chapter 8 + 10
     Subjects:
-        * Unsupervised (FP-Tree, Apriori)
+        * Forecasting (Logistic Regression)
+        * Unsupervised (K-means)
     Preparation:
         * Read chapters
 
@@ -40,7 +41,14 @@ A good place to find datasets to play with is: https://www.kaggle.com/
 ### Workshop 4: (2/3-2018)
     Reading: ???
     Subjects:
-        * Neural Network
-        * Which algorithm and how to approach a problem.
+        * Working with Sci-kit and SciPy
+        * Putting the algorithms to use
+    Preparation:
+        * ???
+    
+### Workshop 5: (9/3-2018)
+    Reading: ???
+    Subjects:
+        * Neural Networks
     Preparation:
         * ???
