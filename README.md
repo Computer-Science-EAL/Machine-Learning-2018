@@ -39,11 +39,12 @@ A good place to find datasets to play with is: https://www.kaggle.com/
 
 
 ### Workshop 4: (2/3-2018)
+    Watch: Lynda.com: Data Science Foundations: Python Scientific Stack (the entire course)
     Subjects:
         * Working with Sci-kit and SciPy
         * Putting the algorithms to use
     Preparation:
-        * Watch: Lynda.com: Data Science Foundations: Python Scientific Stack (the entire course)
+        * ???
     
 ### Workshop 5: (9/3-2018)
     Reading: ???
