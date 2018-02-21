@@ -32,7 +32,7 @@ A good place to find datasets to play with is: https://www.kaggle.com/
 ### Workshop 3: (23/2-2018)
     Reading: Chapter 8 + 10
     Subjects:
-        * Forecasting (Logistic Regression)
+        * Forecasting (Linear Regression)
         * Unsupervised (K-means)
     Preparation:
         * Read chapters
