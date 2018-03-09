@@ -9,3 +9,7 @@
 
 ## Video:
 * Backpropagation: https://www.youtube.com/watch?v=i94OvYb6noo
+
+
+##Exercise:
+* https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/
