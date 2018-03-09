@@ -13,3 +13,6 @@
 
 ## Exercise:
 * https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/
+
+## Mario Maker tutorial
+https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3
